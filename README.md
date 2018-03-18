@@ -7,9 +7,12 @@ Professor Crandall
 
 ## Problem Sets
 [Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md)  [[pdf]](ProblemSets/PS1/PS1.pdf) (Due Week 1)
+
 [Problem Set 2: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) (Due Week 5)
+
 [Problem Set 5: Predictive Models](ProblemSets/PS5/PS5.md)  [[pdf]](ProblemSets/PS5/PS5.pdf) (Due Week 10)
 
 ## Labs
 [Lab 1: Introduction to R](Labs/Lab1/Lab1.md)  [[pdf]](Labs/Lab1/Lab1.pdf) (Due Week 2)
+
 [Lab 1: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) (Due Week 9)
