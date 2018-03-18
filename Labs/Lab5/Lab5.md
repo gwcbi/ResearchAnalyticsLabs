@@ -2,7 +2,7 @@
 
 ## Background
 
-Briefly, “gene expression” is typically a measure of the amount of mRNA (copies) of a particular gene (before translated to a protein) that has been produced by transcription in a particular tissue type at a particular time.  Many genes are up-regulated or down-regulated together through complex regulatory networks and cascades based on the specific needs of a cell or tissue.  This data is a small random subset taken from a larger group of 20000 genes that were measured.  Gene expression data can be used for many different purposes.  Suites of genes can co-regulated in specific cancer types and not others. This can be used purely for prediction, it can also be used to find to find heterogeneity in cancer types (i.e. not all “types” of breast cancer are the same) which may help identify why individuals with different “types” of cancer respond to drugs differently. Gene expression can be used for the inference of "types" of specific cancers by identifying which particular genes or classes of genes have co-expression.  
+Briefly, “gene expression” is typically a measure of the amount of mRNA (copies) of a particular gene (before translated to a protein) that has been produced by transcription in a particular tissue type at a particular time.  Many genes are up-regulated or down-regulated together through complex regulatory networks and cascades based on the specific needs of a cell or tissue.  This data is a small random subset taken from a larger group of 20000 genes that were measured.  Gene expression data can be used for many different purposes.  Suites of genes can be co-regulated in specific cancer types and not others. This can be used purely for prediction; it can also be used to find to find heterogeneity in cancer types (i.e. not all “types” of breast cancer are the same) which may help identify why individuals with different “types” of cancer respond to drugs differently. Gene expression can be used for the inference of "types" of specific cancers by identifying which particular genes or classes of genes have co-expression.  
 
 ## Instructions
 
@@ -32,7 +32,7 @@ Address the following questions:
 
 ### k-means  or kohonen SOMs 
 
-Regardless or which method you use choose answer these two questions:
+Regardless of which method you use, choose answer these two questions:
 
 1. What number of nodes is recommended kohonen SOM with this data?
 2. Based on the Hartigan method, what k should be used for a k-means model with this data (Note: compare k=2 to k=15), this could take a little while)?
