@@ -2,9 +2,9 @@
 
 ## Introduction
 
-R is a free software environment for statistics. R Studio (also free) is an intergrated developement environment for R. You can think of R Studio as a companion program for basic R that helps you by keeping track of your things and organizing your various windows.
+R is a free software environment for statistics. 
 
-In this lab, you will install R and R Studio. You will also learn how to use RMarkdown and how to load basic datasets.
+In this lab, you will install R and practice loading a basic dataset.
 
 ## Setup
 
@@ -12,11 +12,13 @@ In this lab, you will install R and R Studio. You will also learn how to use RMa
 
 The latest version of R is available for download on Linux, OS X and Windows on the Comprehensive R Archive Network (CRAN): [https://cran.r-project.org/](https://cran.r-project.org/).
 
-### Installing RStudio
+### Installing RStudio (optional)
 
-Install R before installing RStudio.
+RStudio is a (free) intergrated developement environment for R. You can think of R Studio as a companion program for basic R that helps you by keeping track of your things and organizing your various windows. Some people prefer to use R within in RStudio, but you do **not** need RStudio for this course.
 
-RStudio is available for download on [www.rstudio.com](https://www.rstudio.com/products/rstudio/download/). You do **not** need to pay money for RStudio. We will be using RStudio Desktop under the Open Source License.
+Install R before installing RStudio (if install RStudio).
+
+RStudio is available for download on [www.rstudio.com](https://www.rstudio.com/products/rstudio/download/). You do **not** need to pay money for RStudio. You can use RStudio Desktop under the Open Source License.
 
 ### R Packages
 
@@ -50,13 +52,6 @@ help(tidyverse)
 
 You can find more information on getting help with R on the [R Project website.](https://www.r-project.org/help.html)
 
-## Submitting your assignments with RMarkdown.
-
-[RMarkdown](https://rmarkdown.rstudio.com/) is a format that allows you to easily share organized, reproducible code and results with others. RMarkdown support is built into RStudio, so producing RMarkdown documents in RStudio is trivial once you become familiar with the formatting. Make a new RMarkdown file by going to `File > New File > R Markdown ...` in the menu bar of RStudio. Enter an informative title for your new RMarkdown document. You can leave the default output format option set to `HTML` for now. The PDF option is also very useful but may require you to install TeX if you don't have it already—this could take  several gigabytes of space so make sure you have room on your computer if you want to go this route.
-
-### RMarkdown syntax
-
-Learn more about how to utilize RMarkdown by following along on this quick [guide from RStudio.com](https://rmarkdown.rstudio.com/authoring_quick_tour.html).
 
 ## Reading Data into R
 
@@ -77,4 +72,13 @@ You can choose between a publicly available health dataset or you can use your o
 * [Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG) - FY2011](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3)
 * [U.S. Chronic Disease Indicators (CDI)](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi-e50c9)
 
-Download and load your preferred dataset into R. Print the first 5 rows and 5 columns. Submit your work as a knitted RMarkdown output file (either HTML or PDF format).
+Start a new R script file to save your work (showing each of the following steps)
+Load your preferred dataset into R. Print the first 5 rows and 5 columns. Submit your work as an R script (somefilename.R).
+
+## The report
+
+For this first lab, save your code as an R script file and submit it through the course 2GW site. Clean up your code first if necessary, but ensure that it works as submitted.
+
+## Due date
+
+Day 7, Week 2
