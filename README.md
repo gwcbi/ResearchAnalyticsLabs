@@ -10,9 +10,13 @@ Professor Crandall
 
 [Problem Set 2: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) (Due Week 5)
 
+[Problem Set 3: Databases](ProblemSets/PS3/PS3.md)  [[pdf]](ProblemSets/PS3/PS3.pdf) (Due Week 6)
+
+[Problem Set 4: Introduction to Genomics](ProblemSets/PS4/PS4.md)  [[pdf]](ProblemSets/PS4/PS4.pdf) (Due Week 7)
+
 [Problem Set 5: Predictive Models](ProblemSets/PS5/PS5.md)  [[pdf]](ProblemSets/PS5/PS5.pdf) (Due Week 10)
 
 ## Labs
 [Lab 1: Introduction to R](Labs/Lab1/Lab1.md)  [[pdf]](Labs/Lab1/Lab1.pdf) (Due Week 2)
 
-[Lab 1: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) (Due Week 9)
+[Lab 9: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) (Due Week 9)
