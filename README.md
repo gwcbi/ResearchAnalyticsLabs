@@ -5,6 +5,21 @@ Sincerely,
 
 Professor Crandall
 
+## Timeline
+| Deadline | Assignment | Project Checkpoint |
+|:---------|-----------------|--------------------|
+| Week 1 | Problem Set 1 | |
+| Week 2 | Lab 1 | |
+| Week 3 | Lab 2 | |
+| Week 4 | Lab 3 | |
+| Week 5 | Problem Set 2 | |
+| Week 6 | Problem Set 3 | |
+| Week 7 | Problem Set 4 | Pt. 1: Abstract |
+| Week 8 | Lab 4 | Pt. 2: Outline |
+| Week 9 | Lab 5 | |
+| Week 10 | Problem Set 5 | Pt. 3: Poster |
+
+
 ## Problem Sets
 [Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md)  [[pdf]](ProblemSets/PS1/PS1.pdf) (Due Week 1)
 
