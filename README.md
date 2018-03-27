@@ -17,7 +17,8 @@ Professor Crandall
 | Week 7 | Problem Set 4 | Pt. 1: Abstract |
 | Week 8 | Lab 4 | Pt. 2: Outline |
 | Week 9 | Lab 5 | |
-| Week 10 | Problem Set 5 | Pt. 3: Poster |
+| Week 10 | Problem Set 5 | |
+| Week 11 | | Pt. 3: Poster |
 
 
 ## Problem Sets
