@@ -35,6 +35,8 @@ Professor Crandall
 ## Labs
 [Lab 1: Introduction to R](Labs/Lab1/Lab1.md)  [[pdf]](Labs/Lab1/Lab1.pdf) (Due Week 2)
 
+[Lab 4: Bioinformatics](Labs/Lab4/Lab4.md)  [[pdf]](Labs/Lab4/Lab4.pdf) (Due Week 8)
+
 [Lab 5: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) (Due Week 9)
 
 ## Final Project
