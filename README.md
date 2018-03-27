@@ -42,4 +42,4 @@ Professor Crandall
 
 [Part 2: Outline](Project/Part2.md) [[pdf]](Project/Part2.pdf) (Due Week 8)
 
-[Part 3: Poster Presentation](Project/Part3.md) [[pdf]](Project/Part3.pdf) (Due Week 10)
+[Part 3: Poster Presentation](Project/Part3.md) [[pdf]](Project/Part3.pdf) (Due Week 11)
