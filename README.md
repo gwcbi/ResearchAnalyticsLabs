@@ -34,9 +34,12 @@ Professor Crandall
 
 ## Labs
 [Lab 1: Introduction to R](Labs/Lab1/Lab1.md)  [[pdf]](Labs/Lab1/Lab1.pdf) (Due Week 2)
+
 [Lab 5: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) (Due Week 9)
 
 ## Final Project
 [Part 1: Title & Abstract assignment](Project/Part1.md) [[pdf]](Project/Part1.pdf) (Due Week 7)
+
 [Part 2: Outline](Project/Part2.md) [[pdf]](Project/Part2.pdf) (Due Week 8)
+
 [Part 3: Poster Presentation](Project/Part3.md) [[pdf]](Project/Part3.pdf) (Due Week 10)
