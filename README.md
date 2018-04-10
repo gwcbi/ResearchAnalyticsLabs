@@ -21,7 +21,7 @@ Professor Crandall
 | Week 11 | | Pt. 3: Poster |
 
 ## Additional Readings
-For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the Additional Readings folder as downloadable pdf files.
+For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the Readings (Readings/) folder as downloadable pdf files.
 
 ## Problem Sets
 [Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md)  [[pdf]](ProblemSets/PS1/PS1.pdf) (Due Week 1)
