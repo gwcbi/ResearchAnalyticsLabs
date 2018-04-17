@@ -39,6 +39,8 @@ For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not fr
 
 [Lab 2: Data Warehouses](Labs/Lab2/Lab2.md)  [[pdf]](Labs/Lab2/Lab2.pdf) (Due Week 3)
 
+[Lab 3: Data Standards & Ontologies](Labs/Lab3/Lab3.md)  [[pdf]](Labs/Lab3/Lab3.pdf) (Due Week 3)
+
 [Lab 4: Bioinformatics](Labs/Lab4/Lab4.md)  [[pdf]](Labs/Lab4/Lab4.pdf) (Due Week 8)
 
 [Lab 5: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) (Due Week 9)
