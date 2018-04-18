@@ -6,7 +6,7 @@ Briefly, “gene expression” is typically a measure of the amount of mRNA (cop
 
 ## Instructions
 
-Load the “Session9GeneExpression1000.csv” and “Session9labels.csv” files. "GeneExpression1000.csv” contains gene expression data for 801 tumor samples (rows) and 1000 genes (columns) it has a header row of gene names. “labels.csv” contains the “Class” variable (column 2) which identifies which type of cancer each of the 801 samples in "GeneExpression1000.csv” come from. Below are the labels for each tumor type in the “Class” variable of "labels.csv"
+Load the “Session9GeneExpression1000.csv” and “Session9labels.csv” files (available in the Lab5 folder on GitHub). "GeneExpression1000.csv” contains gene expression data for 801 tumor samples (rows) and 1000 genes (columns) it has a header row of gene names. “labels.csv” contains the “Class” variable (column 2) which identifies which type of cancer each of the 801 samples in "GeneExpression1000.csv” come from. Below are the labels for each tumor type in the “Class” variable of "labels.csv"
 
 |  Abbreviation | Tumor type |
 | :------------ | :--------------: |
