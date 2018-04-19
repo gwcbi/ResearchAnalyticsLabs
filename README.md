@@ -24,6 +24,9 @@ Professor Crandall
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
 
 ## Problem Sets
+
+To download PDFs or data files onto your computer, use the button in the top-right of the PDF/data preview window that is labeled "Raw" or "Download". If you are trying to download the data files from the links inside the assignments, you may need to use the `File > Save as...` option within your browser to download the file onto your computer.
+
 [Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md)  [[pdf]](ProblemSets/PS1/PS1.pdf) (Due Week 1)
 
 [Problem Set 2: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) [[Data file]](ProblemSets/PS2/Session5PimaDiabetes.csv) (Due Week 5)
