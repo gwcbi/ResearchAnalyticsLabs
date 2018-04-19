@@ -1,7 +1,7 @@
 # Problem Set 5: Predictive Models
 
 ## Instructions
-Load the “Session10PimaDiabetesCleanRand.csv” file (available in the ProblemSet5/PS5 folder on GitHub).  This is a cleaned up version of the data from session 5 with 725 individuals, 7 independent/predictor variables and Diabetes is a binary response variable (1=diabetes, 0=no diabetes).
+Load the “Session10PimaDiabetesCleanRand.csv” file [(available in the ProblemSet5/PS5 folder on GitHub)](https://github.com/gwcbi/ResearchAnalyticsLabs/raw/master/ProblemSets/PS5/Session10PimaDiabetesCleanRand.csv).  This is a cleaned up version of the data from session 5 with 725 individuals, 7 independent/predictor variables and Diabetes is a binary response variable (1=diabetes, 0=no diabetes).
 
 Make the first two thirds of the samples (samples 1 to 483) into a training set and the last third into a test dataset (samples 484 to 725). For simplicity, do not worry about scaling the independent variables. Use two different predictive modeling methods to create a classifier with the training data and then determine how well they do in predicting diabetes in the test data set.
 

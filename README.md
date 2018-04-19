@@ -26,13 +26,13 @@ For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not fr
 ## Problem Sets
 [Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md)  [[pdf]](ProblemSets/PS1/PS1.pdf) (Due Week 1)
 
-[Problem Set 2: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) (Due Week 5)
+[Problem Set 2: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) [[Data file]](ProblemSets/PS2/Session5PimaDiabetes.csv) (Due Week 5)
 
 [Problem Set 3: Databases](ProblemSets/PS3/PS3.md)  [[pdf]](ProblemSets/PS3/PS3.pdf) (Due Week 6)
 
 [Problem Set 4: Introduction to Genomics](ProblemSets/PS4/PS4.md)  [[pdf]](ProblemSets/PS4/PS4.pdf) (Due Week 7)
 
-[Problem Set 5: Predictive Models](ProblemSets/PS5/PS5.md)  [[pdf]](ProblemSets/PS5/PS5.pdf) (Due Week 10)
+[Problem Set 5: Predictive Models](ProblemSets/PS5/PS5.md)  [[pdf]](ProblemSets/PS5/PS5.pdf) [[Data file]](ProblemSets/PS5/Session10PimaDiabetesCleanRand.csv) (Due Week 10)
 
 ## Labs
 [Lab 1: Introduction to R](Labs/Lab1/Lab1.md)  [[pdf]](Labs/Lab1/Lab1.pdf) (Due Week 2)
@@ -43,7 +43,7 @@ For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not fr
 
 [Lab 4: Bioinformatics](Labs/Lab4/Lab4.md)  [[pdf]](Labs/Lab4/Lab4.pdf) (Due Week 8)
 
-[Lab 5: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) (Due Week 9)
+[Lab 5: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) [[Data file 1]](Labs/Lab5/Session9GeneExpression1000.csv) [[Data file 2]](Labs/Lab5/Session9labels.csv) (Due Week 9) 
 
 ## Final Project
 [Part 1: Title & Abstract assignment](Project/Part1.md) [[pdf]](Project/Part1.pdf) (Due Week 7)
