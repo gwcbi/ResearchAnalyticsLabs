@@ -42,7 +42,7 @@ To download PDFs or data files onto your computer, use the button in the top-rig
 
 [Lab 2: Data Warehouses](Labs/Lab2/Lab2.md)  [[pdf]](Labs/Lab2/Lab2.pdf) (Due Week 3)
 
-[Lab 3: Data Standards & Ontologies](Labs/Lab3/Lab3.md)  [[pdf]](Labs/Lab3/Lab3.pdf) (Due Week 3)
+[Lab 3: Data Standards & Ontologies](Labs/Lab3/Lab3.md)  [[pdf]](Labs/Lab3/Lab3.pdf) (Due Week 4)
 
 [Lab 4: Bioinformatics](Labs/Lab4/Lab4.md)  [[pdf]](Labs/Lab4/Lab4.pdf) (Due Week 8)
 
