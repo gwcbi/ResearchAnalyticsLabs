@@ -36,7 +36,7 @@ CTTTCCCCTTCTTTTCTATGGTTAAGTTCATGTCATAGGAAGGGG
 
 Develop a report (I recommend a Word (or other text editor) document) for your problem set that includes answers to all of the questions posed above, showing plots where appropriate.
 
-Save your report as a PDF file and submit your report through the course 2GW site. Clean up your code and submit it as a supplementary file, along with your main report.
+Save your report as a PDF file and submit your report through the course 2GW site. 
 
 ## Due date
 
