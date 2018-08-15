@@ -8,7 +8,7 @@ This problem set will introduce you to working hands-on with some introductory g
 
 1. Download the complete sequence of the GenBank entry with the accession number `NM_000277.2` as a FASTA file.
 2. Translate the DNA sequence to amino acids.
-3. Using BLAST and the UCSC Genome Browser, align the sequence to the human genome and view the alignment. Take a screenshot of your browser window and attach it to the report.
+3. Using BLAT and the UCSC Genome Browser, align the sequence to the human genome and view the alignment. Take a screenshot of your browser window and attach it to the report.
 4. Using PubMed and/or other resources (e.g. The Human Mutation Database), identify at least one disease state of this gene.
 
 
