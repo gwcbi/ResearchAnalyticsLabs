@@ -82,7 +82,7 @@ You can choose between a publicly available health dataset or you can use your o
 * [U.S. Chronic Disease Indicators (CDI), 159.2 MB filesize](https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
 
 Start a new R script file to save your work (showing each of the following steps)
-Load your preferred dataset into R. Print the first 5 rows and 5 columns. Submit your work as an R script (somefilename.R).
+Load your preferred dataset into R. Print (show) the first 5 rows and 5 columns. If your dataset was loaded and assigned properly, you will be able to do this by using the square brackets "[]" to show a subset of the dataset. If your data was assigned to the name `my_data_set`, you would enter `my_data_set[1:5,1:5] to display rows 1-5 and columns 1-5. Submit your work as an R script (somefilename.R) that demonstrates all of the requested actions (i.e. if we were to run your script, it should load data into R and then display the first 5 rows and 5 columns).
 
 ## The report
 
