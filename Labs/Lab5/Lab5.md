@@ -26,13 +26,13 @@ After centering and scaling the gene expression data (“Session9GeneExpression1
 
 Address the following questions depending on the model you used:
 
-Question specific for a k-means analysis
+## Question specific for a k-means analysis
 1. Based on the Hartigan method, what k should be used for a k-means model with this data? (Note: compare k=2 to k=15 and this could take a little while)
 
-Question specific for a SOM analysis:
+## Question specific for a SOM analysis:
 1. What number of nodes is recommended kohonen SOM with this data?
 
-Question/reports due for either analysis:
+## Question/reports due for either analysis:
 
 Fit your preferred model (kmeans or Kohonen SOM) with the appropriate number of k (k-means) or the square with the appropriate number of nodes (SOM) and then use hierarchical clustering to cluster the kmeans clusters (the centers) or SOM nodes (the codes). From the hierarchical cluster cut the tree in to 5 groups (use the cutree function with k=5 as additional argument in instead of h=5). 
 
