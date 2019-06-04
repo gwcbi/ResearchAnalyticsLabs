@@ -5,7 +5,7 @@
 
 ## Instructions
 
-1. Find 5 different sources of publically available biomedical or public health data. Briefly describe (in about one or two sentences what each source is). Hint: We may have used data from some of these sources in previous assignments.
+1. Find 5 different sources of publically available biomedical or public health data. Briefly describe (in about one or two sentences what each source is) the data and provide a link to the data source. Hint: We may have used data from some of these sources in previous assignments.
 2. Pick one of these sources and download a dataset from that source.
 3. Load the dataset into R and calculate some simple summary statistics (e.g. mean, median, min, max, variance, if the variable is continuous) for 5 variables.
 
