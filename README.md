@@ -13,12 +13,12 @@ Professor Crandall
 | Week 3 | Lab 2 | |
 | Week 4 | Lab 3 | |
 | Week 5 | Problem Set 2 | |
-| Week 6 | Problem Set 2 continued | |
-| Week 7 | Problem Set 3 | Pt. 1: Abstract |
-| Week 8 | Problem Set 4| Pt. 2: Outline |
-| Week 9 | Lab 4 | June 2 |
-| Week 10 | Lab 5 | June 9 |
-| Week 11 | June 13 | Pt. 3: Poster |
+| Week 6 | Problem Set 3 | |
+| Week 7 | Problem Set 4 | Pt. 1: Abstract |
+| Week 8 | Lab 4| Pt. 2: Outline |
+| Week 9 | Lab 5 | |
+| Week 10 | Problem Set 5 | |
+| Week 11 | Finals | Pt. 3: Poster |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
