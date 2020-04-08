@@ -8,16 +8,16 @@ Professor Crandall
 ## Timeline
 | Deadline | Assignment | Project Checkpoint | Due Date |
 |:---------|-----------------|--------------------|-------------|
-| Week 1 | Problem Set 1 | | 14APR2020 |
-| Week 2 | Lab 1 | | 14APR2020 |
-| Week 3 | Lab 2 | | 21APR2020 |
-| Week 4 | Lab 3 | | 28APR2020 |
-| Week 5 | Problem Set 2 | | 05MAY2020 |
-| Week 6 | Problem Set 3 | | 12MAY2020 |
-| Week 7 | Problem Set 4 | Pt. 1: Abstract | 19MAY2020 |
-| Week 8 | Lab 4| Pt. 2: Outline | 26MAY2020 |
-| Week 9 | Lab 5 | | 02JUN2020 |
-| Week 10 | Problem Set 5 | | 09JUN2020 |
+| Week 1 | Problem Set 1 | | 16APR2020 |
+| Week 2 | Lab 1 | | 16APR2020 |
+| Week 3 | Lab 2 | | 23APR2020 |
+| Week 4 | Lab 3 | | 30APR2020 |
+| Week 5 | Problem Set 2 | | 07MAY2020 |
+| Week 6 | Problem Set 3 | | 14MAY2020 |
+| Week 7 | Problem Set 4 | Pt. 1: Abstract | 21MAY2020 |
+| Week 8 | Lab 4| Pt. 2: Outline | 28MAY2020 |
+| Week 9 | Lab 5 | | 04JUN2020 |
+| Week 10 | Problem Set 5 | | 11JUN2020 |
 | Week 11 | Finals | Pt. 3: Poster | 16JUN2020 |
 
 ## Additional Readings
