@@ -17,7 +17,7 @@ Professor Crandall
 | Week 7 | Problem Set 4 | Pt. 1: Abstract | 21MAY2020 |
 | Week 8 | Lab 4| Pt. 2: Outline | 28MAY2020 |
 | Week 9 | Lab 5 | | 04JUN2020 |
-| Week 10 | Problem Set 5 | | 11JUN2020 |
+| Week 10 | Problem Set 5 | | 13JUN2020 |
 | Week 11 | Finals | Pt. 3: Poster | 16JUN2020 |
 
 ## Additional Readings
