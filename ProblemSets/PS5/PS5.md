@@ -1,4 +1,4 @@
-# Problem Set 5: Predictive Models
+# Problem Set 5: Predictive Models - see email from Prof. Crandall for Modified Problem Set 5 and due date
 
 ## Instructions
 Load the “Session10PimaDiabetesCleanRand.csv” file [(available in the ProblemSet5/PS5 folder on GitHub)](https://github.com/gwcbi/ResearchAnalyticsLabs/raw/master/ProblemSets/PS5/Session10PimaDiabetesCleanRand.csv).  This is a cleaned up version of the data from session 5 with 725 individuals, 7 independent/predictor variables and Diabetes is a binary response variable (1=diabetes, 0=no diabetes).
