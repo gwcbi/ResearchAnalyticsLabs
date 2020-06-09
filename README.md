@@ -18,7 +18,7 @@ Professor Crandall
 | Week 8 | Lab 4| Pt. 2: Outline | 28MAY2020 |
 | Week 9 | Lab 5 | | 04JUN2020 |
 | Week 10 | Problem Set 5 | | 13JUN2020 |
-| Week 11 | Finals | Pt. 3: Poster | 16JUN2020 |
+| Week 11 | Finals | Pt. 3: Poster | 18JUN2020 |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
