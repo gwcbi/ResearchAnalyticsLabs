@@ -6,18 +6,18 @@ To get you familiar with the format of this course, we will start slow with an e
 
 ## Data description
 
-This is contingency table is from a real dataset on diabetes in Pima Indian women.
+This is contingency table is from a real dataset on COVID-19 epidemiology.
 
 
 
-| Diabetic pedigree function | Not diabetic  |  Diabetic  |
+| Chronic disease | Survived  |  Did Not Survive  |
 |:-------------:| :--------------------:| :--------------:|
-| Under 0.3 | 60 | 17 |
-| Over 0.3 | 72 | 51 |
+| No | 32029 | 1192 |
+| Yes | 15 | 78 |
 
 ## The question
 
-Are people in this study more likely to have diabetes if their diabetic pedigree function number is above 0.3 (indicating a greater prevalence of diabetes in their family history)? What statistical test did you use? What is the resulting p-value?
+Are people in this dataset more or less likely to survive COVID-19 if they have a chronic disease? What statistical test did you use? What is the resulting p-value?
 
 ## The report
 
@@ -29,4 +29,4 @@ Day 7 Week 1
 
 #### Data Source
 
-Smith, J. W., Everhart, J. E., Dickson, W. C., Knowler, W. C. and Johannes, R. S. (1988) Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications in Medical Care (Washington, 1988), ed. R. A. Greenes, pp. 261–265. Los Alamitos, CA: IEEE Computer Society Press.
+Xu B, Kraemer MUG, Open COVID-19 Data Working Group. Open access epidemiological data from the COVID-19 outbreak. Lancet Infect Dis. 20(5):534 (2020).
