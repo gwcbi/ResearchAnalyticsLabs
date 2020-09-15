@@ -44,7 +44,7 @@ To download PDFs or data files onto your computer, use the button in the top-rig
 
 [Lab 3: Data Standards & Ontologies](Labs/Lab3/Lab3.md)  [[pdf]](Labs/Lab3/Lab3.pdf) (Due Week 4)
 
-[Lab 4: Bioinformatics](Labs/Lab4/Lab4.md)  [[pdf]](Labs/Lab4/Lab4.pdf) (Due Week 8)
+[Lab 4: Bioinformatics](Labs/Lab4/Lab4.md)  [[pdf]](Labs/Lab4/Lab4.pdf) [[Data file]](Labs/Lab4/all_sequences.fasta.txt) (Due Week 8)
 
 [Lab 5: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) [[Data file 1]](Labs/Lab5/Session9GeneExpression1000.csv) [[Data file 2]](Labs/Lab5/Session9labels.csv) (Due Week 9) 
 
