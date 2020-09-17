@@ -8,17 +8,17 @@ Professor Crandall
 ## Timeline
 | Deadline | Assignment | Project Checkpoint | Due Date |
 |:---------|-----------------|--------------------|-------------|
-| Week 1 | Problem Set 1 | | 16APR2020 |
-| Week 2 | Lab 1 | | 16APR2020 |
-| Week 3 | Lab 2 | | 23APR2020 |
-| Week 4 | Lab 3 | | 30APR2020 |
-| Week 5 | Problem Set 2 | | 07MAY2020 |
-| Week 6 | Problem Set 3 | | 14MAY2020 |
-| Week 7 | Problem Set 4 | Pt. 1: Abstract | 21MAY2020 |
-| Week 8 | Lab 4| Pt. 2: Outline | 28MAY2020 |
-| Week 9 | Lab 5 | | 04JUN2020 |
-| Week 10 | Problem Set 5 | | 13JUN2020 |
-| Week 11 | Finals | Pt. 3: Poster | 18JUN2020 |
+| Week 1 | Problem Set 1 | | 01OCT2020 |
+| Week 2 | Lab 1 | | 1OCT2020 |
+| Week 3 | Lab 2 | | 08OCT2020 |
+| Week 4 | Lab 3 | | 15OCT2020 |
+| Week 5 | Problem Set 2 | | 22OCT2020 |
+| Week 6 | Problem Set 3 | | 29OCT2020 |
+| Week 7 | Problem Set 4 | Pt. 1: Abstract | 05NOV2020 |
+| Week 8 | Lab 4| Pt. 2: Outline | 12NOV2020 |
+| Week 9 | Lab 5 | | 19NOV2020 |
+| Week 10 | Problem Set 5 | | 03DEC2020 |
+| Week 11 | Finals | Pt. 3: Poster | 07DEC2020 |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
