@@ -72,10 +72,6 @@ Cheverud JM, Lawson HA, Fawcett GL, Wang B, Pletscher LS, R Fox A, Maxwell TJ, E
 
 Submit your code as an R script along with clear answers to the course 2GW site. The answers can be in a separate file (pdf or word) or clearly noted in the script.
 
-Develop a report (I recommend a Word (or other text editor) document) for your problem set that includes answers to all of the questions posed above, showing plots where appropriate. If you're using RStudio, you can use the "Export" button to easily save plots as image files. If you're working in base R or prefer to turn your plots into image files using code, Datamentor has [a short but helpful online guide](https://www.datamentor.io/r-programming/saving-plot/) on how to do so.
-
-Save your report as a PDF file and submit your report through the course 2GW site. Clean up your code (your R script) and submit it as a supplementary file, along with your main report.
-
 ## Due date
 
 Day 7, Week 5
