@@ -42,6 +42,8 @@ head(dat) # look at the first few rows to check
 
 **Document and discard any variables with greater than 40% missing data.** Use multivariate imputation using the mice package to impute missing data points for the remaining variables. 
 
+With this new imputed data, assess each individual independent (predictor) variable for skewness and kurtosis using the `e1071` package. Note that the `kurtosis` function in `e1017` has a normality expectation of 0 instead of 3. **Report any variable with a skewness less than -1 or greater than 1.** 
+
 For any variable with excess skewness (in this case any value between -1 & 1 is acceptable), **anchor the variable to 1** (see R script from lecture) using the function supplied below.  You can paste the code below into R which will make the anchor1 function available for use.
 
 ```r
