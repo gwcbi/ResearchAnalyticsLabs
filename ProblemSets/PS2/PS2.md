@@ -54,7 +54,7 @@ anchor1=function(y){
 }
 ```
 
-On the anchored variables, use the `boxcox` function from the `MASS` package to identify and **report the “optimal” lambda for each variable that needs transformation.**
+On the anchored variables, use the `boxcox` function from the `MASS` package to identify and **report the “optimal” lambda for each variable that needs transformation.** Use `seq(-15,15,1/10)` for the increments in the `boxcox` function.
 
 ### Advanced (optional, extra credit)
 
