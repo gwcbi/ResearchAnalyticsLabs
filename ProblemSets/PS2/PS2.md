@@ -58,7 +58,7 @@ On the “anchored variables, use the `boxcox` function from the `MASS` package 
 
 Use the `bcPower` function from the `car` package to transform the skewed variables with the optimal lambda previously found. **Create a new data.frame with all of the variables after imputation but replacing the variables with skew with their box cox transformations.** Use the uni.plot function (with its default setting) in the mvoutlier package to assess multivariate outliers. Report how many outliers it suggests there are.
 
-**Report the most extreme outlier distance values** (hint: look at the mahalanobis distances in the $md vector of the output) and report which sample it belongs to using the row number as the ID for that sample.
+**Report the most extreme outlier distance values** (hint: look at the mahalanobis distances in the $md vector of the output) and **report which sample it belongs to** using the row number as the ID for that sample.
 
 
 #### References
