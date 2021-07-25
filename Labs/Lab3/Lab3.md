@@ -5,7 +5,7 @@
 In Lab 2, you identified 3 data warehouses associated with public health.  Choose one of those data warehouses (or a particular public health related topic such as metabolomics, metagenomics, cancer, etc.) and identify the Data Standards associated with it by doing the following:
 
 - Provide a few sentence description of the data standard you’ve chosen to work with and:
-	- why this data standard is of interest to you
+	- why this data warehouse is of interest to you
   	- how it relates to public health
 - Provide a website for the data standards
 - Identify a scientific paper associated with the data standards and get the PDF of the paper. Attach the PDF with your final report.
