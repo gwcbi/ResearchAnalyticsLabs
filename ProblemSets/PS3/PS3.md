@@ -12,7 +12,7 @@
 
 ## The report
 
-Develop a report (I recommend a Word (or other text editor) document) for your problem set that includes answers to all of the questions posed above, showing plots where appropriate. Also include a functional R script or a screen shot of the R commands used to load the dataset into R and calculate the summary statistics.
+Develop a report (I recommend a Word (or other text editor) document) for your problem set that includes answers to all of the questions posed above, showing plots where appropriate. Also include a functional R script or a screen shot of the R commands used to load the dataset into R and calculate the summary statistics. Be sure to also include your data file for validation and try to comment extensively in the R script to document what the different lines of code are doing.
 
 Save your report as a PDF file and submit your report through the course 2GW site. Clean up your code and submit it as a supplementary file, along with your main report.
 
