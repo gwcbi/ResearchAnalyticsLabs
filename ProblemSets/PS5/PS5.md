@@ -21,7 +21,7 @@ For the each method/model fit, **report the training data area under the curve (
 
 * For each method/model fit, is the training AUC better or worse than the test AUC? 
 * In comparing the predictive ability of the two models with each other, is better to compare the AUC from the training data or from the test data? Why?	
-* In general, is the test AUC expected to be larger or smaller than the test AUC? Why? Is this always the case?
+* In general, is the training AUC expected to be larger or smaller than the test AUC? Why? Is this always the case?
 * Which of the two methods/models fits/performs better?
 
 
