@@ -1,5 +1,5 @@
 # ResearchAnalyticsLabs
-Welcome to the course! Here on GitHub you will find all the assignments (Labs, Problelm Sets, and Final Project) for the course as well as any data and/or links to software/data to be successful in the assignments. There are instructions for each assignment for each week. All assignments are due on Thursday of the week of assignment, except for the first Problem Set, which will be due the second Thursday along with Lab 1 and the Final Project which is due on Day 2 of Exam Week. These dates are also listed below. You will get the most out of the homework and the course if you work on the problem sets/labs/final project BEFORE the live session each week and bring your questions to the live session. Good luck with the course and have fun with Research Analytics!
+Welcome to the course! Here on GitHub you will find all the assignments (Labs, Problelm Sets, and Final Project) for the course as well as any data and/or links to software/data to be successful in the assignments. There are instructions for each assignment for each week. All assignments are due on Friday of the week of assignment, except for the final which is due the Wednesday of finals week. These dates are also listed below. You will get the most out of the homework and the course if you work on the problem sets/labs/final project BEFORE the live session each week and bring your questions to the live session. Good luck with the course and have fun with Research Analytics!
 
 Sincerely,
 
@@ -8,17 +8,17 @@ Professor Crandall
 ## Timeline
 | Deadline | Assignment | Project Checkpoint | Due Date |
 |:---------|-----------------|--------------------|-------------|
-| Week 1 | Problem Set 1 | | 15JUL2021 |
-| Week 2 | Lab 1 | | 15JUL2021 |
-| Week 3 | Lab 2 | | 22JUL2021 |
-| Week 4 | Lab 3 | | 29JUL2021 |
-| Week 5 | Problem Set 2 | | 05AUG2021 |
-| Week 6 | Problem Set 3 | | 12AUG2021 |
-| Week 7 | Problem Set 4 | Pt. 1: Abstract | 19AUG2021 |
-| Week 8 | Lab 4| Pt. 2: Outline | 26AUG2021 |
-| Week 9 | Lab 5 | | 02SEP2021 |
-| Week 10 | Problem Set 5 | | 09SEP2021 |
-| Week 11 | Finals | Pt. 3: Poster | 14SEP2021 |
+| Week 1 | Problem Set 1 | | 14JANL2022 |
+| Week 2 | Lab 1 | | 21JJAN2022 |
+| Week 3 | Lab 2 | | 28JAN2022 |
+| Week 4 | Lab 3 | | 04FEB2022 |
+| Week 5 | Problem Set 2 | | 11FEB2022 |
+| Week 6 | Problem Set 3 | | 18FEB2022 |
+| Week 7 | Problem Set 4 | Pt. 1: Abstract | 25FEB2022 |
+| Week 8 | Lab 4| Pt. 2: Outline | 04MAR2022 |
+| Week 9 | Lab 5 | | 11MAR2022 |
+| Week 10 | Problem Set 5 | | 18MAR2022 |
+| Week 11 | Finals | Pt. 3: Poster | 23MAR2022 |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
