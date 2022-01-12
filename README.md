@@ -9,7 +9,7 @@ Professor Crandall
 | Deadline | Assignment | Project Checkpoint | Due Date |
 |:---------|-----------------|--------------------|-------------|
 | Week 1 | Problem Set 1 | | 14JANL2022 |
-| Week 2 | Lab 1 | | 21JJAN2022 |
+| Week 2 | Lab 1 | | 21JAN2022 |
 | Week 3 | Lab 2 | | 28JAN2022 |
 | Week 4 | Lab 3 | | 04FEB2022 |
 | Week 5 | Problem Set 2 | | 11FEB2022 |
