@@ -8,17 +8,17 @@ Professor Crandall
 ## Timeline
 | Deadline | Assignment | Project Checkpoint | Due Date |
 |:---------|-----------------|--------------------|-------------|
-| Week 1 | Problem Set 1 | | 14JANL2022 |
-| Week 2 | Lab 1 | | 21JAN2022 |
-| Week 3 | Lab 2 | | 28JAN2022 |
-| Week 4 | Lab 3 | | 04FEB2022 |
-| Week 5 | Problem Set 2 | | 11FEB2022 |
-| Week 6 | Problem Set 3 | | 18FEB2022 |
-| Week 7 | Problem Set 4 | Pt. 1: Abstract | 26FEB2022 |
-| Week 8 | Lab 4| Pt. 2: Outline | 05MAR2022 |
-| Week 9 | Lab 5 | | 12MAR2022 |
-| Week 10 | Problem Set 5 | | 19MAR2022 |
-| Week 11 | Finals | Pt. 3: Poster | 23MAR2022 |
+| Week 1 | Problem Set 1 | | 08JUL2022 |
+| Week 2 | Problem Set 2 | | 15JUL2022 |
+| Week 3 | Problem Set 3 | | 22JUL2022 |
+| Week 4 | Problem Set 4 | | 29JUL2022 |
+| Week 5 | Problem Set 5 | | 05AUG2022 |
+| Week 6 | Problem Set 6 | | 12AUG2022 |
+| Week 7 | Problem Set 7 | Pt. 1: Abstract | 19AUG2022 |
+| Week 8 | Problem Set 8 | Pt. 2: Outline | 26AUG2022 |
+| Week 9 | Problem Set 9 | | 02SEP2022 |
+| Week 10 | Problem Set 10 | | 09SEP2022 |
+| Week 11 | Finals | Pt. 3: Poster | 06SEP2022 |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
@@ -29,24 +29,23 @@ To download PDFs or data files onto your computer, use the button in the top-rig
 
 [Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md)  [[pdf]](ProblemSets/PS1/PS1.pdf) (Due Week 1)
 
-[Problem Set 2: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) [[Data file]](ProblemSets/PS2/Session5PimaDiabetes.csv) (Due Week 5)
+[Problem Set 2: Introduction to R](Labs/Lab1/Lab1.md)  [[pdf]](Labs/Lab1/Lab1.pdf) (Due Week 2)
 
-[Problem Set 3: Databases](ProblemSets/PS3/PS3.md)  [[pdf]](ProblemSets/PS3/PS3.pdf) (Due Week 6)
+[Problem Set 3: Data Warehouses](Labs/Lab2/Lab2.md)  [[pdf]](Labs/Lab2/Lab2.pdf) (Due Week 3)
 
-[Problem Set 4: Introduction to Genomics](ProblemSets/PS4/PS4.md)  [[pdf]](ProblemSets/PS4/PS4.pdf) (Due Week 7)
+[Problem Set 4: Data Standards & Ontologies](Labs/Lab3/Lab3.md)  [[pdf]](Labs/Lab3/Lab3.pdf) (Due Week 4)
 
-[Problem Set 5: Predictive Models](ProblemSets/PS5/PS5.md)  [[pdf]](ProblemSets/PS5/PS5.pdf) [[Data file]](ProblemSets/PS5/Session10PimaDiabetesCleanRand.csv) (Due Week 10)
+[Problem Set 5: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) [[Data file]](ProblemSets/PS2/Session5PimaDiabetes.csv) (Due Week 5)
 
-## Labs
-[Lab 1: Introduction to R](Labs/Lab1/Lab1.md)  [[pdf]](Labs/Lab1/Lab1.pdf) (Due Week 2)
+[Problem Set 6: Databases](ProblemSets/PS3/PS3.md)  [[pdf]](ProblemSets/PS3/PS3.pdf) (Due Week 6)
 
-[Lab 2: Data Warehouses](Labs/Lab2/Lab2.md)  [[pdf]](Labs/Lab2/Lab2.pdf) (Due Week 3)
+[Problem Set 7: Introduction to Genomics](ProblemSets/PS4/PS4.md)  [[pdf]](ProblemSets/PS4/PS4.pdf) (Due Week 7)
 
-[Lab 3: Data Standards & Ontologies](Labs/Lab3/Lab3.md)  [[pdf]](Labs/Lab3/Lab3.pdf) (Due Week 4)
+[Problem Set 8: Bioinformatics](Labs/Lab4/Lab4.md)  [[pdf]](Labs/Lab4/Lab4.pdf) [[Data file]](Labs/Lab4/all_sequences.fasta.txt) (Due Week 8)
 
-[Lab 4: Bioinformatics](Labs/Lab4/Lab4.md)  [[pdf]](Labs/Lab4/Lab4.pdf) [[Data file]](Labs/Lab4/all_sequences.fasta.txt) (Due Week 8)
+[Problem Set 9: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) [[Data file 1]](Labs/Lab5/Session9GeneExpression1000.csv) [[Data file 2]](Labs/Lab5/Session9labels.csv) (Due Week 9) 
 
-[Lab 5: Descriptive Models](Labs/Lab5/Lab5.md)  [[pdf]](Labs/Lab5/Lab5.pdf) [[Data file 1]](Labs/Lab5/Session9GeneExpression1000.csv) [[Data file 2]](Labs/Lab5/Session9labels.csv) (Due Week 9) 
+[Problem Set 10: Predictive Models](ProblemSets/PS5/PS5.md)  [[pdf]](ProblemSets/PS5/PS5.pdf) [[Data file]](ProblemSets/PS5/Session10PimaDiabetesCleanRand.csv) (Due Week 10)
 
 ## Final Project
 [Part 1: Title & Abstract assignment](Project/Part1.md) [[pdf]](Project/Part1.pdf) (Due Week 7)
