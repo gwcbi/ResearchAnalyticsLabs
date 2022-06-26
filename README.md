@@ -18,7 +18,7 @@ Professor Crandall
 | Week 8 | Problem Set 8 | Pt. 2: Outline | 26AUG2022 |
 | Week 9 | Problem Set 9 | | 02SEP2022 |
 | Week 10 | Problem Set 10 | | 09SEP2022 |
-| Week 11 | Finals | Pt. 3: Poster | 06SEP2022 |
+| Week 11 | Finals | Pt. 3: Poster | 12SEP2022 |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
