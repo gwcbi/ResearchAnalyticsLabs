@@ -1,4 +1,4 @@
-# Lab 1: Introduction to R
+# Problem Set 2: Introduction to R
 
 ## Introduction
 
@@ -90,4 +90,4 @@ For this first lab, save your code as an R script file and submit it through the
 
 ## Due date
 
-Day 7, Week 2
+Friday, Week 2
