@@ -1,4 +1,4 @@
-# Lab 2: Data Warehouses
+# Problem Set 3: Data Warehouses
 
 ## Instructions
 
@@ -18,4 +18,4 @@ Save your report as a PDF file and submit your report through the course 2GW sit
 
 ## Due date
 
-Day 7, Week 3
+Friday, Week 3
