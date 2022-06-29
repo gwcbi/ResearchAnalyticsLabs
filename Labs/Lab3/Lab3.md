@@ -1,4 +1,4 @@
-# Lab 3: Data Standards & Ontologies
+# Problem Set 4: Data Standards & Ontologies
 
 ## Instructions
 
@@ -25,4 +25,4 @@ Save your report as a PDF file and submit your report through the course 2GW sit
 
 ## Due date
 
-Day 7, Week 4
+Friday, Week 4
