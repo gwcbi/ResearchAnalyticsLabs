@@ -1,4 +1,4 @@
-# Problem Set 3: Databases
+# Problem Set 6: Databases
 
 ## Background
 
@@ -18,4 +18,4 @@ Save your report as a PDF file and submit your report through the course 2GW sit
 
 ## Due date
 
-Day 7, Week 6
+Friday, Week 6
