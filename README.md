@@ -35,7 +35,7 @@ To download PDFs or data files onto your computer, use the button in the top-rig
 
 [Problem Set 4: Data Standards & Ontologies](Labs/Lab3/Lab3.md)  [[pdf]](Labs/Lab3/Lab3.pdf) (Due Week 4)
 
-[Problem Set 5: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) [[Data file]](ProblemSets/PS2/Session5PimaDiabetes.csv) (Due Week 5)
+[Problem Set 5: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) [[Data file]](ProblemSets/PS2/f10IntercrossMissing.csv) (Due Week 5)
 
 [Problem Set 6: Databases](ProblemSets/PS3/PS3.md)  [[pdf]](ProblemSets/PS3/PS3.pdf) (Due Week 6)
 
