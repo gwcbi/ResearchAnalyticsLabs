@@ -1,4 +1,4 @@
-# Lab 5: Descriptive Models
+# Problem Set 9: Descriptive Models
 
 ## Background
 
@@ -48,4 +48,4 @@ Make a table with the “Class” variable (cancer labels for each individual) f
 
 ## Due date
 
-Day 7, Week 10
+Friday, Week 10
