@@ -1,4 +1,4 @@
-# Problem Set 2: Basic Statistics
+# Problem Set 5: Basic Statistics
 
 ## Introduction
 
@@ -76,6 +76,6 @@ Submit your code as an R script along with clear answers to the course 2GW site.
 
 ## Due date
 
-Day 7, Week 5
+Friday, Week 5
 
 
