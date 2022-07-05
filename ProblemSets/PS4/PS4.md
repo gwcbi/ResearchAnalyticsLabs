@@ -1,4 +1,4 @@
-# Problem Set 4: Genomics
+# Problem Set 7: Genomics
 
 ## Background
 
@@ -19,4 +19,4 @@ Save your report as a PDF file and submit your report through the course 2GW sit
 
 ## Due date
 
-Day 7, Week 7
+Friday, Week 7
