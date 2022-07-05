@@ -1,8 +1,8 @@
-# Lab 4: Bioinformatics
+# Problem Set 8: Bioinformatics
 
 ## Background
 
-In this lab, we will combine the bioinformatics training from this week with last week's genomic skills to identify and estimate the evolutionary history of sequence data associated with disease.
+In this problem set, we will combine the bioinformatics training from this week with last week's genomic skills to identify and estimate the evolutionary history of sequence data associated with disease.
 
 
 ### Mystery Sequence
@@ -51,4 +51,4 @@ Save your report as a PDF file and submit your report through the course 2GW sit
 
 ## Due date
 
-Day 7, Week 9
+Friday, Week 9
