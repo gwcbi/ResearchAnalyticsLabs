@@ -1,5 +1,5 @@
 # ResearchAnalyticsLabs
-Welcome to the course! Here on GitHub you will find all the assignments (Problelm Sets, Research Project ramp up, and Final Project) for the course as well as any data and/or links to software/data to be successful in the assignments. There are instructions for each assignment for each week. All assignments are due on Friday of the week of assignment, except for the final which is due the Monday of finals week. These dates are also listed below. You will get the most out of the homework and the course if you work on the problem sets/project assignments BEFORE the live session each week and bring your questions to the live session. Good luck with the course and have fun with Research Analytics!
+Welcome to the course! Here on GitHub you will find all the assignments (Problem Sets, Research Project ramp up, and Final Project) for the course as well as any data and/or links to software/data to be successful in the assignments. There are instructions for each assignment for each week. All assignments are due on Friday of the week of assignment. These dates are also listed below. You will get the most out of the homework and the course if you work on the problem sets/project assignments BEFORE the live session each week and bring your questions to the live session. Good luck with the course and have fun with Research Analytics!
 
 Sincerely,
 
@@ -8,17 +8,16 @@ Professor Crandall
 ## Timeline
 | Deadline | Assignment | Project Checkpoint | Due Date |
 |:---------|-----------------|--------------------|-------------|
-| Week 1 | Problem Set 1 | | 08JUL2022 |
-| Week 2 | Problem Set 2 | | 15JUL2022 |
-| Week 3 | Problem Set 3 | | 22JUL2022 |
-| Week 4 | Problem Set 4 | | 29JUL2022 |
-| Week 5 | Problem Set 5 | | 05AUG2022 |
-| Week 6 | Problem Set 6 | | 12AUG2022 |
-| Week 7 | Problem Set 7 | Pt. 1: Abstract | 19AUG2022 |
-| Week 8 | Problem Set 8 | Pt. 2: Outline | 26AUG2022 |
-| Week 9 | Problem Set 9 | | 02SEP2022 |
-| Week 10 | Problem Set 10 | | 09SEP2022 |
-| Week 11 | Finals | Pt. 3: Poster | 12SEP2022 |
+| Week 1 | Problem Set 1 | | 13JAN2023 |
+| Week 2 | Problem Set 2 | | 20JAN2023 |
+| Week 3 | Problem Set 3 | | 27JAN2023 |
+| Week 4 | Problem Set 4 | | 03FEB2023 |
+| Week 5 | Problem Set 5 | | 10FEB2023 |
+| Week 6 | Problem Set 6 | | 17FEB2023 |
+| Week 7 | Problem Set 7 | Pt. 1: Abstract | 24FEB2023 |
+| Week 8 | Problem Set 8 | Pt. 2: Outline | 03MAR2023 |
+| Week 9 | Problem Set 9 | | 10MAR2023 |
+| Week 10 | Problem Set 10 | Pt. 3: Poster  | 17MAR2023 |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
@@ -52,6 +51,6 @@ To download PDFs or data files onto your computer, use the button in the top-rig
 
 [Part 2: Outline](Project/Part2.md) [[pdf]](Project/Part2.pdf) (Due Week 8)
 
-[Part 3: Poster Presentation](Project/Part3.md) [[pdf]](Project/Part3.pdf) (Due Week 11)
+[Part 3: Poster Presentation](Project/Part3.md) [[pdf]](Project/Part3.pdf) (Due Week 10)
 
 [Part 4: Poster Examples](Project/)
