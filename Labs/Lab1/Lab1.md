@@ -78,7 +78,7 @@ If they don't contain code that will read in your preferred format, there may be
 
 You can choose between a publicly available health dataset or you can use your own data if you have any! Here are some example publicly available datasets, that you can download if you want (use the Export > CSV button near the top right part of the page). If you load these, you'll need to use `read_csv()` from Tidyverse rather than the built-in `read.csv()` because `read.csv()` from **base R can only read files less than 5 MB in size.**
 
-* [Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG) - FY2011, 26.8 MB filesize](https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3)
+* [Inpatient Prospective Payment System (IPPS) Provider Summary for the Top 100 Diagnosis-Related Groups (DRG) - FY2011, 26.8 MB filesize]([https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3](https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-provider-and-service))
 * [U.S. Chronic Disease Indicators (CDI), 159.2 MB filesize](https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
 
 Start a new R script file to save your work (showing each of the following steps)
