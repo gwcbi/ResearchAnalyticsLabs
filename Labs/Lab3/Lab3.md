@@ -8,7 +8,7 @@ In Problem Set 3, you identified 3 data warehouses associated with public health
 	- why this data standard is of interest to you? Why is it helpful to have such a data standard?
   	- how it relates to public health
 - Provide a website for the data standards
-- Identify a scientific paper associated with the data standards and get the PDF of the paper. Attach the PDF with your final report.
+- Identify a scientific paper associated with the data standards and get the PDF of the paper. Attach the PDF with your final report. (It must be a peer reviewed paper from a journal, not a website or non published article, use an appropriate reference format (for example look at references in journal article))
 - Describe the data standards in your own words and what they cover.  Are they missing key aspects (do they cover data collection and analyses)?  What are the top 5 descriptors of the data standards?
 
 Now, identify a second set of standards on a second topic and repeat the above steps. Describe common elements in the two data standards you’ve examined.  Why are these in common or why aren’t there any in common?  Describe how do data standards impact public health decisions?
