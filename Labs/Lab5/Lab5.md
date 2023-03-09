@@ -48,4 +48,4 @@ Make a table with the “Class” variable (cancer labels for each individual) f
 
 ## Due date
 
-Friday, Week 10
+Friday, Week 9
