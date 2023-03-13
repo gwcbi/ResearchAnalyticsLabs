@@ -17,7 +17,8 @@ Professor Crandall
 | Week 7 | Problem Set 7 | Pt. 1: Abstract | 24FEB2023 |
 | Week 8 | Problem Set 8 | Pt. 2: Outline | 03MAR2023 |
 | Week 9 | Problem Set 9 | | 10MAR2023 |
-| Week 10 | Problem Set 10 | Pt. 3: Poster  | 17MAR2023 |
+| Week 10 | Problem Set 10 | | 17MAR2023 |
+| Week 11 | Pt. 3: Poster | 22MAR2023 |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
